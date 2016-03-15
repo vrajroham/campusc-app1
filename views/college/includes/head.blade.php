@@ -50,9 +50,5 @@
 
     <!-- Head Libs -->
     <script src="{{url('assets/vendor/modernizr/modernizr.min.js')}}"></script>
-    <link rel="stylesheet" type="text/css" href="{{url()}}/assets/css/datatables/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="{{url()}}/assets/css/datatables/dataTables.bootstrap.min.css">
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script type="text/javascript" src="{{url()}}/assets/js/datatables/jquery.dataTables.min.js"></script>
 
 </head>

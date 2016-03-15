@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-@include('home.includes.head')
+@include('collegeregistrations.includes.head')
 	<body class="loading-overlay-showing" data-loading-overlay>
 	<div class="loading-overlay">
 		<div class="loader"></div>

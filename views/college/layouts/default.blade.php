@@ -13,7 +13,7 @@
 			<!--@include('college.includes.footer')-->
 		</div>
 		<!-- Vendor -->
-
+		<script src="{{url('assets/vendor/jquery/jquery.min.js')}}"></script>
 		<script src="{{url('assets/vendor/jquery.appear/jquery.appear.min.js')}}"></script>
 		<script src="{{url('assets/vendor/jquery.easing/jquery.easing.min.js')}}"></script>
 		<script src="{{url('assets/vendor/jquery-cookie/jquery-cookie.min.js')}}"></script>

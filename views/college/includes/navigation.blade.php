@@ -37,8 +37,8 @@
                                 <nav>
                                     <ul class="nav nav-pills " id="mainNav">
                                         <li class="dropdown">
-                                            <a  href="college.upload.student">
-                                                Upload Students
+                                            <a  href="#">
+                                                Link 1
                                             </a>
                                         </li>
                                         <li class="dropdown">

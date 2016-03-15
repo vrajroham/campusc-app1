@@ -1,2 +1,2 @@
-# campusc-app1
-Campusc Tutorial
+# campusc-app
+Campusc App Directory Build
