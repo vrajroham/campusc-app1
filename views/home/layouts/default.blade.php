@@ -94,6 +94,7 @@
 			@include('home.includes.footer')
 		</div>
 	@include("home.includes.signin-modal")
+	@include("home.includes.signup-modal")
 		<!-- Vendor -->
 		<script src="{{url('assets')}}/vendor/jquery/jquery.min.js"></script>
 		<script src="{{url('assets')}}/vendor/jquery.appear/jquery.appear.min.js"></script>

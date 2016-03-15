@@ -31,9 +31,7 @@ ClassLoader::addDirectories(array(
 |
 */
 
-//Log::useFiles(storage_path().'/logs/laravel.log');
-$logFile = 'log-'.php_sapi_name().'.txt';
-Log::useDailyFiles(storage_path().'/logs/'.$logFile);
+Log::useFiles(storage_path().'/logs/laravel.log');
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +64,7 @@ App::error(function(Exception $exception, $code)
 
 App::down(function()
 {
-	return Response::view("down.maintain-down",array(), 503);
+	return Response::make("Be right back!", 503);
 });
 
 /*

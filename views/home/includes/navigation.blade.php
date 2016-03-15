@@ -73,6 +73,7 @@
                                             </a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="collegeRegistrations/create">Educational Institute</a></li>
+                                                <li><a data-toggle="modal" data-target="#default">Students</a></li>
                                                 <li><a href="contact-us-advanced.php">Corporate</a></li>
                                             </ul>
                                         </li>
